@@ -1,0 +1,1 @@
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Excel.exe.config
