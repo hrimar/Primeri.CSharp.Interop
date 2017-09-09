@@ -1,1 +1,12 @@
 C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Excel.exe.config
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Excel.exe
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Excel.pdb
+C:\aula\primeri.csharp.interop\Interop\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+C:\aula\primeri.csharp.interop\Interop\Excel\obj\Debug\Excel.exe
+C:\aula\primeri.csharp.interop\Interop\Excel\obj\Debug\Excel.pdb
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Office.dll
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\Office.xml
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Debug\stdole.dll

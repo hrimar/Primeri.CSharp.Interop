@@ -8,8 +8,21 @@ namespace Excel
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            DataStruct data = new DataStruct();
+
+            IOWrite write = new IOWrite(data);
+
+            // Набиранена данни в основната таблица
+            data.AddRow("Христо", "Христов", "42");
+            data.AddRow("Ясен", "Петров", "43");
+
+            // Проверка на таблицата
+            data.PrintTable();
+
+            write.ExportTable();
+            write.RunFile();
         }
     }
 }

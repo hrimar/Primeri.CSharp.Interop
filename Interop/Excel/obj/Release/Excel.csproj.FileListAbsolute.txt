@@ -1,0 +1,10 @@
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.exe.config
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.exe
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.pdb
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Microsoft.Vbe.Interop.dll
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Office.dll
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Office.xml
+C:\aula\primeri.csharp.interop\Interop\Excel\obj\Release\Excel.exe
+C:\aula\primeri.csharp.interop\Interop\Excel\obj\Release\Excel.pdb
